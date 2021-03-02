@@ -1,0 +1,5 @@
+name: DiscordAPI
+main: ac.sparky.discord.Plugin
+version: 0.1
+loadbefore:
+  - Sparky
